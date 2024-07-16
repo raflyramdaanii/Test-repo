@@ -30,4 +30,15 @@
     .hero-text p {
         font-size: 14px;
     }
+      
+      .btn:hover {
+        background-color: #0056b3; /* Darker background color on hover */
+      }
+      
+      .btn img {
+            width: 20px;
+            margin-left: 10px;
+          
+    }
+
 }
