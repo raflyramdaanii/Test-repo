@@ -4,7 +4,7 @@ import tsurumiLogo from '../../assets/tsurumi.png';
 import ebaraLogo from '../../assets/ebara.png';
 import aliaLogo from '../../assets/alia.jpg';
 import showaLogo from '../../assets/showa.png';
-import capitolOilLogo from '../../assets/capitol.avif';
+import capitolOilLogo from '../../assets/capitol.png';
 
 const Partner = () => {
   const distributors = [
