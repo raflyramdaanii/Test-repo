@@ -44,8 +44,7 @@ const Contact = () => {
         <ul>
             <li><img src={mail_icon} alt="" />raflyramdani622.gmail.com</li>
             <li><img src={phone_icon} alt="" />123-456-789</li>
-            <li><img src={location_icon} alt="" />Komplek Gempol Asri, Jl. Gempol Asri IX No. 47 
-                Cijerah, Cigondewah, Bandung, Jawa Barat, Indonesia 40215</li>
+            <li><img src={location_icon} alt="" />Komplek Gempol AsriKomplek Gempol Asri, Jl. Gempol Asri IX No. 47 Cijerah, Cigondewah, Bandung, Jawa Barat, Indonesia 40215</li>
         </ul>
         </div>
         <div className="contact-col">
